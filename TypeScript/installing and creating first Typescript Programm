@@ -1,0 +1,10 @@
+install Node
+Use latest version of Nodejs "node -v"
+"npm init" to create a package.json
+Install Typescript "npm i typescript"
+Initialize Typescript
+"tsc --init"
+
+"tsc compile"
+
+"node .\datatypes.js" run
