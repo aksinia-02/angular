@@ -12,3 +12,5 @@ Initialize Typescript
 "npm install @angular/cli -g"
 
 "ng v" version of angular
+
+"ng new "nameOfApplication""
