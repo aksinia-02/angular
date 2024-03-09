@@ -8,3 +8,7 @@ Initialize Typescript
 "tsc compile"
 
 "node .\datatypes.js" run
+
+"npm install @angular/cli -g"
+
+"ng v" version of angular
